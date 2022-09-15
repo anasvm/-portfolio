@@ -455,6 +455,9 @@
     display: flex;
     justify-content: start;
   }
+     .logo-name {
+         font-size:35px;
+     }
     .main-name h1{
     font-size: 38px;
     font-weight: 700;
